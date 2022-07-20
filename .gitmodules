@@ -1,3 +1,6 @@
 [submodule "symfony"]
 	path = symfony
 	url = https://github.com/KaluginAleksey/symfony.git
+[submodule "laravel"]
+	path = laravel
+	url = https://github.com/KaluginAleksey/laravel.git
