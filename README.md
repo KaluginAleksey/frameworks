@@ -6,4 +6,3 @@
 2. **Symfony**
     
    Создал контроллер `IndexController` c роутом `index.html.twig`
-3. 
