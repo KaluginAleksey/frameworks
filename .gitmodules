@@ -4,4 +4,3 @@
 [submodule "laravel"]
 	path = laravel
 	url = https://github.com/KaluginAleksey/laravel/tree/lesson2
-
